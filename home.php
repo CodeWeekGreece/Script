@@ -11,7 +11,7 @@
 <header style="height: 150px; width: 100%;">
     <div>
         <p style="font-size:50px; color:white; margin-left:11%;">TimeKeeper</p>
-        <a href="index.php"><img class="homelogo" src="TKWhite.png" alt="homelogo"></a>
+        <a href="home.php"><img class="homelogo" src="TKWhite.png" alt="homelogo"></a>
         <div class="group1">
             <i class="fa users fa-user"></i>
             <p>Hello, User</p>  
